@@ -23,7 +23,7 @@
   --bs-secondary: rgb(65, 145, 136);
   --bs-success: #37BC9B;
   --bs-info: #3BAFDA;
-  --bs-warning: #F6BB42;
+  --bs-warning: #5898ac;
   --bs-danger: #E9573F;
   --bs-light: #f4f6f8;
   --bs-dark: #212529;
@@ -3022,8 +3022,8 @@ fieldset:disabled .btn {
 
 .btn-warning {
   color: #000;
-  background-color: #F6BB42;
-  border-color: #F6BB42;
+  background-color: #5898ac;
+  border-color: #5898ac;
 }
 
 .btn-warning:hover {
@@ -3055,8 +3055,8 @@ fieldset:disabled .btn {
 
 .btn-warning:disabled, .btn-warning.disabled {
   color: #000;
-  background-color: #F6BB42;
-  border-color: #F6BB42;
+  background-color: #5898ac;
+  border-color: #5898ac;
 }
 
 .btn-danger {
@@ -3305,14 +3305,14 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-warning {
-  color: #F6BB42;
-  border-color: #F6BB42;
+  color: #5898ac;
+  border-color: #5898ac;
 }
 
 .btn-outline-warning:hover {
   color: #000;
-  background-color: #F6BB42;
-  border-color: #F6BB42;
+  background-color: #5898ac;
+  border-color: #5898ac;
 }
 
 .btn-check:focus + .btn-outline-warning, .btn-outline-warning:focus {
@@ -3322,8 +3322,8 @@ fieldset:disabled .btn {
 .btn-check:checked + .btn-outline-warning,
 .btn-check:active + .btn-outline-warning, .btn-outline-warning:active, .btn-outline-warning.active, .btn-outline-warning.dropdown-toggle.show {
   color: #000;
-  background-color: #F6BB42;
-  border-color: #F6BB42;
+  background-color: #5898ac;
+  border-color: #5898ac;
 }
 
 .btn-check:checked + .btn-outline-warning:focus,
@@ -3332,7 +3332,7 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-warning:disabled, .btn-outline-warning.disabled {
-  color: #F6BB42;
+  color: #5898ac;
   background-color: transparent;
 }
 
@@ -6418,7 +6418,7 @@ fieldset:disabled .btn {
 }
 
 .link-warning {
-  color: #F6BB42;
+  color: #5898ac;
 }
 
 .link-warning:hover, .link-warning:focus {
@@ -6820,7 +6820,7 @@ fieldset:disabled .btn {
 }
 
 .border-warning {
-  border-color: #F6BB42 !important;
+  border-color: #5898ac !important;
 }
 
 .border-danger {
@@ -7799,7 +7799,7 @@ fieldset:disabled .btn {
 }
 
 .text-warning {
-  color: #F6BB42 !important;
+  color: #5898ac !important;
 }
 
 .text-danger {
@@ -7855,7 +7855,7 @@ fieldset:disabled .btn {
 }
 
 .bg-warning {
-  background-color: #F6BB42 !important;
+  background-color: #5898ac !important;
 }
 
 .bg-danger {
